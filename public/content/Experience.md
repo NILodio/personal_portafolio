@@ -41,3 +41,18 @@
 - List Items:
   - Implemented diverse NLP algorithms employing varied analytical methodologies, consistently achieving accuracy levels exceeding 72%. Conducted meticulous algorithm fine-tuning and optimized code for enhanced performance.
   - Utilized Python and NLU techniques to maintain model accuracy and efficiency.
+
+## Squaretrade
+- *Python Senior Developer* | Mar'22 - Oct'22
+- ![Cerence](../assets/cerence.png)
+- Tags: All, Backend Developer
+- Badges:
+  - Python [green]
+  - _NLK [green]
+  - _Pandas [green]
+  - _NumPy [green]
+  - _Scikit-learn [green]
+  - GitHub [purple]
+- List Items:
+  - Implemented diverse NLP algorithms employing varied analytical methodologies, consistently achieving accuracy levels exceeding 72%. Conducted meticulous algorithm fine-tuning and optimized code for enhanced performance.
+  - Utilized Python and NLU techniques to maintain model accuracy and efficiency.
